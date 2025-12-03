@@ -28,6 +28,7 @@ O objetivo principal é fornecer uma **ferramenta prática, funcional e de fáci
 - **Frontend:** React, JavaScript, CSS
 - **Gerenciamento de Estado:** React Hooks (`useState`, `useEffect`)
 - **Controle de Versão e CI/CD:** GitHub, GitHub Actions
+- **Hospedagem/Deploy:** *(inserir onde está hospedado: Netlify, Vercel, GitHub Pages, etc.)*
 
 
 ---
